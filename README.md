@@ -1,0 +1,2 @@
+# potential-invention
+"accountType": "EOA"
